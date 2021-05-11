@@ -1,0 +1,17 @@
+body{
+    background-color: #201f1f;
+}
+div{
+    padding-top: 25px;
+    padding-right: 1150px;
+}
+button{
+    background-color: #8d2663;
+    border: none;
+    padding: 15px 32px;
+    font-family: 'Fira Code';
+    font-size: 20px;
+}
+button:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.363);
+}
